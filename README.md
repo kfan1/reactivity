@@ -1,2 +1,2 @@
-# Boiler Plate
-MERN (MongoDB, ExpressJS, React, NodeJS) Fullstack boilerplate with Bootstrap, Bcrypt, Sass, and Redux.
+# Reactivity
+A creativity and visually focused IDE for React web applications
