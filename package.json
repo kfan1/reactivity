@@ -1,7 +1,7 @@
 {
-  "name": "my-app",
+  "name": "reactivity",
   "version": "1.0.0",
-  "description": "my-app",
+  "description": "A creativity and visually focused IDE for React web applications",
   "main": "index.js",
   "scripts": {
     "server": "NODE_ENV=production nodemon ./server/server.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kfan1/MessingAround.git"
+    "url": "https://github.com/kfan1/reactivity.git"
   },
   "author": "Kevin Fan",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kfan1/boiler_plate/issues"
+    "url": "https://github.com/kfan1/reactivity/issues"
   },
-  "homepage": "https://github.com/kfan1/boiler_plate",
+  "homepage": "https://kfan1.github.io/cv/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "bcryptjs": "^2.4.3",
